@@ -2,11 +2,11 @@
 Gestion de process avec shell unix
 
 
-First , run these commands:
-sudo apt install dialog
-sudo apt install gnome-terminal
+First , run these commands: <br />
+sudo apt install dialog <br />
+sudo apt install gnome-terminal <br />
 
-cd Gestion de Process Tp Unix Farid
-sudo chmod +x ./process.sh
-sudo chmod +x ./childProcess
+cd Gestion de Process Tp Unix Farid <br />
+sudo chmod +x ./process.sh <br />
+sudo chmod +x ./childProcess <br />
 ./process.sh
